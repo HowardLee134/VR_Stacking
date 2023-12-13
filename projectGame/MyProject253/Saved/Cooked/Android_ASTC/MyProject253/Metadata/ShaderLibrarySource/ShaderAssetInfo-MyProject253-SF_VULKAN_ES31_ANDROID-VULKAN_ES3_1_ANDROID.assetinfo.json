@@ -1,0 +1,397 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "37BB78099682D6A16E56C8C8137974C8F5678B6E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "7B30280F272942FD3EDFD46840134671EE7FE20E",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "2A83061807DB140D789D4FD956301707756C004E",
+			"Assets": [
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "F2845F191629BE047056D09AA40E94140707D7D6",
+			"Assets": [
+				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "F843A31E1E5E5590F3972F0694DB4B84011BD87B",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E0D9D01F911416AE596FFC83F0CE64A7C2E18631",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "27BCE121076CDF05EC48FA19A27A6B4C45ABEC74",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A68A422204DE5838517A4616549557CF565DD4E3",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C8FE426ADD2CD891EE358ABF5443A7E5C899BD4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B212C12F3339F083E6863D26F2D2D35DFA2900F0",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D9D38C306488ADFEDFD619B29CAE749DBF619D09",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "1DF27A36432CDFE156800C8DF126C8AF5EA76AE9",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "5AAC8239B7AF11FE8FB156F69CF7F4E3275B210A",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA2533BA6CE4B7E7BD67C6251F266AC19D60D2C",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "92DD524C955DEABEF25ED583CBB815749CFD212B",
+			"Assets": [
+				"/Game/Characters/MannequinsXR/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "356E455026827E0ED28A3302D6564F28D569A9FF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "689C7950FD0C7145DE207A94227CB806CF66202C",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "564C0E5584D26888CC70DD2127A6F07978154A12",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "9BC1EF552E857D5CD766D8B7DF876316E5A703B1",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "64DED95CA6D420E7CB17A217C56E4D8600101ABE",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "C92143612696F37AF073F4932BB41A90B307E7A8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "37575E68CDD203EE8AB353750D1DFEF8BCD8A7AD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B9C4D56C7FFC8EF800E0BDB40357E6A05CE29B61",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "0BA99370FB91629324640D7D86CAC442B491B98B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E1A4F770EA7725B552EA136C76345D549A09C108",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C225F9757A462CA5954F7C64682E14906C34F705",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C9253D77634F628D2267E5556D9D8CEFC48878D0",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "C02FAD7A2608B35B7C39CACD1CCE6B9610AD1A01",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "F4256B82BC2304F171AA51DBF941AC349C944440",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "B171648818A698888E68278DA5CC800FBE2F4A7E",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "326F9A88C45D31F233A930F5318EF87EA0905F8A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "745F0B8C7133129BFB58B221C62EB5C2B323BC8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "344DAB94A491E2CD624732438F2E341BBD8F2AAA",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "92235C977DBEA0A3A6B0AEEC8826BDA84647FB1C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D3851798C68AF78D19CF7C3161D8E0C2BEF8429F",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B955219A9F71EA3A0CBE0854095218BF4BA75DB5",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "96C9589F5CB7B0540669DEA7F77CB665EED84F4E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "79CED3A0D4067A3E46B10BF053853DB5894C9FA3",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "9183D1A5BBF0A2780A1CF73C8499D41E8B561B0E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "0D78D1A6DC67EA1B360FC4D1C96BF5AA975B5BC3",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4364EDA85BBEFE8E321F158375BFA12609ECAE40",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "32E218A9A555D07F23B38080EC9E244E162A2CED",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "05B842A9F9FC713BC27DF72158B0693DCA16F5C5",
+			"Assets": [
+				"/Game/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "395BEFB152A803F05A0D5544E4ED8EEB8BCB1611",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "886DB1B2709A14DF4784663035B8B05BB01116F9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B557CCB58E024E6E9FC7162E77F71331E8AE4DF0",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "FC1D18B8805BB8D0B2F48F13E7B9287416C00B2C",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "03F681BA0980F5C07E38C677AADE3FE6650C4FF8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3A8E98BE4B716214ECF5E0D8C1C39195CF14E2E5",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation"
+			]
+		},
+		{
+			"ShaderMapHash": "92465EBFF2B35E68831983F5279A2EE6DD288305",
+			"Assets": [
+				"/Game/FPWeapon/Materials/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4526D2BF9742711DCBBAF0F1CD1DD92F2C9494DF",
+			"Assets": [
+				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4C7400C2DD8CD54DC35393CBE0BE305B3D978FBC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2A3F6DC7D236D548700CE3CF0686B39AB41C4D3E",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "2CB303D38FD13905DCA32A9D6433D6BD9BCDD82D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DA46ECDCC43659E0A33A8D24E9E5084ECFE82A45",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "41AD07DE2916843F9F6BFAC173CCAD16F2FA3A1F",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "35D84ADF0B6547FB6E9D8F58BDC4FB5A3421D3FB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "2D9156E184E0C988B0BFB136C4A96D2E23DD51B2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "887023E335E7E173C94F93F7D0B12F96529B338B",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AB144EE3B4A77B7281A7FCC76B1A324E447B8931",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "2ED463E6B32207887DB9B0C2BEB53694963EA028",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_VRCursor"
+			]
+		},
+		{
+			"ShaderMapHash": "26F6BDF3ED90F2C288943DA5F630A41833FC3A1C",
+			"Assets": [
+				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CC35FEF45642BB437C64D8E8C3D7D1ED45CB2A2B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "F39854FD19688290577B7ED0DD05272EF4FADA74",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4BCC72FFC3F7EF13E6098BED9BFA06F2B85E74C7",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		}
+	]
+}
